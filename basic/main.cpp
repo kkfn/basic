@@ -1,11 +1,10 @@
-#include<iostream>
 #include<Windows.h>
+#include<iostream>
 #include<string>
-#include<stdio.h>
 
 using namespace std;
 
-int main(void){
+int mian(void){
 	system("pause");
 	return 0;
 }
